@@ -3,8 +3,4 @@ require_relative "../lib/greeting.rb"
 
 puts "Hi! I'm HAL, what's your name?"
 name = gets.strip
-<<<<<<< HEAD
 greeting(name) 
-=======
-greeting(name)
->>>>>>> fe181df9e3eeebdaf985a885483be4b9fe99227a
